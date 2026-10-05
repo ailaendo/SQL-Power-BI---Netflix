@@ -1,0 +1,53 @@
+📊 Dashboard Netflix — Análise de Assinaturas e Acessos
+
+📌 Sobre o projeto
+Este projeto consiste na criação de um dashboard interativo no Power BI para análise de dados relacionados a assinaturas, acessos, localização dos usuários e faturamento de uma base de dados da Netflix.
+O projeto foi desenvolvido com o objetivo de praticar e demonstrar conhecimentos em tratamento de dados, SQL, modelagem, criação de medidas DAX e visualização de dados no Power BI.
+
+Através do dashboard é possível analisar indicadores como:
+- Total de assinaturas
+- Faturamento total
+- Faturamento por estado
+- Distribuição de assinaturas por tipo de conta
+- Acessos por período
+- Distribuição geográfica dos usuários
+- Indicadores de desempenho através de KPIs
+
+🗂️ Fonte dos dados
+A base de dados utilizada neste projeto foi obtida a partir do Curso da Udemy PowerBI + SQLServer (https://www.udemy.com/course/powerbi-sqlserver/?couponCode=UDEAFFMX0926).
+Os dados foram utilizados para fins educacionais e de desenvolvimento de portfólio.
+
+🔄Tratamento e preparação dos dados
+Durante o desenvolvimento do projeto, a base passou por algumas etapas de preparação:
+- Importação da base original em Excel
+- Conversão dos dados para CSV
+- Importação da base no SQLiteOnline
+- Geração e adaptação dos comandos SQL
+- Criação da estrutura da tabela no SQL Server
+- Inserção dos dados no SQL Server
+- Conexão da base com o Power BI
+- Tratamento e organização dos dados
+- Criação das medidas em DAX
+
+🛠️ Ferramentas utilizadas
+- Power BI: desenvolvimento do dashboard e visualização dos dados
+- Power Query: limpeza, tratamento e transformação dos dados
+- DAX: criação de medidas e indicadores
+- Excel: organização e armazenamento da base de dados
+- Canva: desenvolvimento do layout e identidade visual
+- GitHub: documentação e disponibilização do projeto
+
+📚 Aprendizados
+Durante o desenvolvimento deste projeto, pude aprofundar conhecimentos em:
+- Processo de ETL e preparação de dados
+- Conversão e importação de diferentes formatos de arquivos
+- Utilização de SQL Server como fonte de dados
+- Criação de consultas SQL
+- Conexão entre SQL Server e Power BI
+- Criação de medidas utilizando DAX
+- Utilização do SUMX para cálculos linha a linha
+- Criação de KPIs
+- Construção de mapas e análises geográficas
+- Desenvolvimento de dashboards interativos
+- Organização e apresentação visual de informações
+
